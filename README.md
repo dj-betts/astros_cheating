@@ -1,5 +1,6 @@
 # astros_cheating
 
+<<<<<<< HEAD
 # <div align="center"> Astros Cheating Scandal - A "Statistical" Advantage </div>
 ## <div align="center"> Did the Astros gain a statistical advantage during the 2016 cheating scandal? </div>
 
@@ -126,3 +127,6 @@ I would love to dive farther into how readers rate books on Goodreads. There man
 
 I have read 21 of the top 100 books on the list, with two more currently waiting on my bookshelf. How many have you read? Follow the link below and count them up!
 
+=======
+[Google slides](https://docs.google.com/presentation/d/1gSG-Mp-hF2VJSk-AV4ZL5yBG-SuRmoIIbvnsa0fxA-4/edit?usp=sharing)
+>>>>>>> a7ab7e3604f7d0efa11184855d137a7ddad54a07
