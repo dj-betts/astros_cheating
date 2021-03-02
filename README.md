@@ -1,6 +1,6 @@
 # astros_cheating
 
-<<<<<<< HEAD
+
 # <div align="center"> Astros Cheating Scandal - A "Statistical" Advantage </div>
 ## <div align="center"> Did the Astros gain a statistical advantage during the 2016 cheating scandal? </div>
 
